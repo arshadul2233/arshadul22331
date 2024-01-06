@@ -40,7 +40,7 @@
  Weapon Name / Display weapon names
 
 
-AIMBOT
+# AIMBOT
 
  Enable / Enable the aimbot
  
